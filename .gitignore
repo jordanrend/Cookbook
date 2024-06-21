@@ -1,0 +1,5 @@
+# This file tells git what files it should *not* track.
+
+# Don't track any recipe in the "family-secret" directory.
+family-secret/
+
